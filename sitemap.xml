@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://fifnel.github.com/blog/blog/2013/03/31/octopress_test/</loc>
+        <lastmod>2013-03-31T14:50:56+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://fifnel.github.com/blog/blog/archives/</loc>
+        <lastmod>2013-03-31T14:50:56+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://fifnel.github.com/blog/</loc>
+        <lastmod>2013-03-31T14:50:56+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://fifnel.github.com/blog/robots.txt</loc>
+        <lastmod>2013-03-31T14:37:07+09:00</lastmod>
+    </url>
+</urlset>

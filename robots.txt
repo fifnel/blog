@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://fifnel.github.com/blog/sitemap.xml 
